@@ -14,5 +14,6 @@ public class Main {
         // la funcion caminar y la muestra
         System.out.println(jose.getsNombre());
         System.out.println(jose.sNombre);
+        System.out.println(" cambio desde interfaz web en main");// Editado desde la GITHUB web
     }
 }
