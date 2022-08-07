@@ -45,6 +45,7 @@ public class Main {
         numero4=8;
         //impremo la oparacion
         System.out.println(" el RESIDUO de "+numero3+" % "+numero4+" = "+(numero3%numero4));
+        System.out.println(" cambio desde interfaz web");// Editado desde la GITHUB web
 
     }
 }
