@@ -16,5 +16,6 @@ public class Main {
             }
         }
         System.out.println(num[0]+" "+ num[1] +" "+num[2]+" "+num[3]+" "+num[4]+" "+num[5]);
+        System.out.println(" cambio desde interfaz web en main");// Editado desde la GITHUB web
     }
 }
